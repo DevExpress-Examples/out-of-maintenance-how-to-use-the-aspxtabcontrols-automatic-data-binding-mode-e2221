@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [TabControlDataSource.xml](./CS/WebSite/App_Data/TabControlDataSource.xml) (VB: [TabControlDataSource.xml](./VB/WebSite/App_Data/TabControlDataSource.xml))
-* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to use the ASPxTabControl's automatic data binding mode
