@@ -6,6 +6,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to use the ASPxTabControl's automatic data binding mode
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2221/)**
+<!-- run online end -->
 
 
 <p>This sample demonstrates how to bind the ASPxTabControl to data without manually setting the control's data-related properties.<br />
